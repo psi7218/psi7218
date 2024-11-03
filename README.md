@@ -23,11 +23,4 @@
 ## GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=psi7218&theme=radical" height="180">
 
-## Connect with Me
-[![Naver](https://img.shields.io/badge/Naver-red?style=for-the-badge&logo=Naver&logoColor=white)](mailto:psi7218@naver.com)
-
-## Projects
-- [Growth Log App – 하루도약](https://github.com/psi7218/growth-log-app)
-- [Graduation Photo Rolling Paper](https://github.com/psi7218/graduation-rolling-paper)
-
 
