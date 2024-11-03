@@ -8,8 +8,7 @@
 </div>
 
 ## About Me
-- 🌱 I’m currently learning full-stack development.
-- 💻 Technologies I enjoy working with include React, TypeScript, and Node.js.
+- 🌱 I’m currently learning Front-End development.
 - 🚀 I love solving algorithm problems and am passionate about optimization.
 
 ## My Tech Stack
@@ -25,13 +24,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=psi7218&theme=radical" height="180">
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psi7218@naver.com)
 
 ## Projects
 - [Growth Log App – 하루도약](https://github.com/psi7218/growth-log-app)
 - [Graduation Photo Rolling Paper](https://github.com/psi7218/graduation-rolling-paper)
 
-## Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=psi7218&theme=redical">
 
