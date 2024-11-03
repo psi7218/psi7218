@@ -6,4 +6,4 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=psi7218" height="180">
   </a>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=psi7218&theme=redical">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psi7218&theme=radical" height="180">
