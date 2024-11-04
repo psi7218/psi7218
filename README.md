@@ -8,7 +8,7 @@
 </div>
 
 ## About Me
-- 🌱 I’m currently learning Front-End development.
+- 🌱 I’m currently learning Front-End development !!
 - 🚀 I love solving algorithm problems and am passionate about optimization.
 
 ## My Tech Stack
