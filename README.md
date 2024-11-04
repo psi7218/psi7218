@@ -19,8 +19,3 @@
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=psi7218&theme=radical" height="180">
-
-
