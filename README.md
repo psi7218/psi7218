@@ -12,6 +12,9 @@
 - 🚀 I love solving algorithm problems and am passionate about optimization.
 
 ## My Tech Stack
+
+<h2> Front <h2/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
