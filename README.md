@@ -25,3 +25,6 @@
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 #### DevOps
+![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=#2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=#009639)
+
