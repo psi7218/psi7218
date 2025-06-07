@@ -8,8 +8,11 @@
 </div>
 
 ## About Me
-- 🌱 I’m currently learning Front-End development !!
-- 🚀 I love solving algorithm problems and am passionate about optimization.
+
+- 🌱 I'm a front-end developer who prioritizes user experience and enjoys solving logical problems.
+- 🚀 I focus on performance optimization, accessibility, and improving real user workflows.
+- 🧠 I’m especially interested in algorithmic problem-solving and discovering more efficient solutions through refactoring.
+- 🎯 My long-term goal is to become a Front-End Architect, leading scalable UI systems and guiding technical direction across services.
 
 ---
 
