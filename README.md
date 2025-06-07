@@ -22,21 +22,33 @@
 
 ### ⚛️ Front-End
 
-#### 📚 Framework / Library
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <b>📚 Framework / Library</b><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    </td>
+    <td>
+      <b>📦 State Management</b><br>
+      <img src="https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=zustand&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🎨 Styling</b><br>
+      <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+    </td>
+    <td>
+      <b>⚙️ Bundler & Tooling</b><br>
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-#### 📦 State Management
-![Zustand](https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=zustand&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
-
-#### 🎨 Styling
-![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-#### ⚙️ Bundler & Tooling
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🚀 DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
