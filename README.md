@@ -34,13 +34,11 @@
     </td>
     <td><b>📦 State Management</b><br><br>
       <img src="https://img.shields.io/badge/Zustand-333333?style=for-the-badge&logo=zustand&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td><b>🎨 Styling</b><br><br>
       <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     </td>
     <td><b>⚙️ Bundler & Tooling</b><br><br>
